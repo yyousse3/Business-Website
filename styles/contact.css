@@ -1,0 +1,55 @@
+body {
+  background-color: #add8e6
+}
+
+p {
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-family: 'Merriweather', serif;
+}
+
+.card {
+  margin-top: 30px;
+}
+
+.card-header {
+  text-align: center;
+}
+
+.container a {
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: -25px;
+}
+
+
+.container {
+  margin-top: 30px;
+}
+
+.form-group  {
+  padding-left: 25px;
+  padding-right:25px;
+  margin-top: 10px;
+}
+
+
+button {
+  width: 100%;
+}
+
+.hidden {
+  display: none;;
+}
+
+.bannerimg {
+  height: 100%;
+  width: 100%;
+}
+
+.bannerdiv {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
